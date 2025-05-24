@@ -231,4 +231,5 @@ Feel free to contribute!
 
 **[`^        back to top        ^`](#)**
 
-The eyes (Reddit / Twitter / Telegram): https://beta.the-eye.eu/collections/
+* The eyes (Reddit / Twitter / Telegram): https://beta.the-eye.eu/collections/
+* CCNet (Text-Only Web clone archive) https://data.statmt.org/cc-100/
