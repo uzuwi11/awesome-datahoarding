@@ -23,6 +23,7 @@ Feel free to contribute!
 * [Data recovery](#data-recovery)
 * [Local Media](#local-media)
 * [Long-term data archiving](#long-term-data-archiving)
+* [Data to download](#sources)
 
 ## Download utilities
 
@@ -225,3 +226,9 @@ Feel free to contribute!
 * [CommonCrawl](http://commoncrawl.org/the-data/get-started/): Data collected over seven years (ongoing) which contains web page data, extracted metadata and text extractions.
 * [Blockyarchive](https://github.com/darrenldl/blockyarchive): Archive with forward error correction and sector level recoverability
 * [par2cmdline](https://github.com/Parchive/par2cmdline): A PAR 2.0 compatible file verification and repair tool
+
+## Sources
+
+**[`^        back to top        ^`](#)**
+
+Reddit archive (Torrent): magnet:?xt=urn:btih:7c0645c94321311bb05bd879ddee4d0eba08aaee&dn=reddit&xl=1994218462768&tr=https%3A%2F%2Facademictorrents.com%2Fannounce.php&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
