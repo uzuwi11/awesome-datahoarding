@@ -231,4 +231,4 @@ Feel free to contribute!
 
 **[`^        back to top        ^`](#)**
 
-Reddit archive (Torrent): magnet:?xt=urn:btih:7c0645c94321311bb05bd879ddee4d0eba08aaee&dn=reddit&xl=1994218462768&tr=https%3A%2F%2Facademictorrents.com%2Fannounce.php&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+The eyes (Reddit / Twitter / Telegram): https://beta.the-eye.eu/collections/
